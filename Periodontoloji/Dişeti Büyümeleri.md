@@ -96,6 +96,12 @@
 
 - Dişler ağızda olduğu sürece rekürrenttir.
 
+---
 
+- Akut myelotik lösemi büyümesinde en büyük fark çok hızlı ilerlemesi
 
+**Neoplastik**
 
+- Fibroma --> bağ dokusu veya PDL kökenli
+
+- SCC 
